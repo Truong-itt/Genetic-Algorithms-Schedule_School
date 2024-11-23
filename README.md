@@ -94,11 +94,15 @@ This project applies **Genetic Algorithm (GA)** to solve the complex problem of 
 - Python 3.x.
 - Required libraries:
   - `numpy`
-  - `matplotlib` (if visualizing the timetable)
+  - `matplotlib`
+  - `pandas`
 
 ### **Usage**:
 1. Clone the repository:
    ```bash
-   git clone <repository-link>
-   cd <repository-folder>
+   git clone https://github.com/Truong-itt/Genetic-Algorithms-Schedule_School.git
+   cd .\Genetic-Algorithms-Schedule_School\
+   run file GA_schedule.ipynb
    ```
+2.  References:
+- [GA-Wiki](https://en.wikipedia.org/wiki/Genetic_algorithm)   
