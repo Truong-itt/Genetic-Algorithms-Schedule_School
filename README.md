@@ -105,4 +105,5 @@ This project applies **Genetic Algorithm (GA)** to solve the complex problem of 
    run file GA_schedule.ipynb
    ```
 2.  References:
-- [GA-Wiki](https://en.wikipedia.org/wiki/Genetic_algorithm)   
+- [Genetic algorithm wiki](https://en.wikipedia.org/wiki/Genetic_algorithm)
+- [Thuật toán di truyền](https://viblo.asia/p/thuat-toan-di-truyen-ung-dung-giai-mot-so-bai-toan-kinh-dien-phan-1-RQqKLxJzK7z)   
